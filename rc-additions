@@ -1,0 +1,15 @@
+
+#
+# Sergey's additions 
+#
+
+# add scr dir to PATH
+export PATH=$PATH:~/scr
+
+# (courtesy of JasonY) fast indexing that vim gets
+bvtags () {
+    cscope -Rb
+    ctags -R
+}
+
+# sergeysdone
