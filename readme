@@ -1,5 +1,5 @@
-Welcome to Sergey's scriping stuff. 
+Welcome to Sergey's scripting stuff. 
 
-If you get to read this you have probably downloaded scr project from github
-
-All one needs to do is to run ./install.sh once and to enjoy afterwards. 
+this repo should be cloned to your ~/scr dir. our 'brother' project dotrc 
+should make sure this dir is in your PATH (but this is not mandatory - 
+one can always approach these scripts by referring full path)
